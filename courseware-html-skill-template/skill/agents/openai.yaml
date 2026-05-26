@@ -1,5 +1,0 @@
-interface:
-  display_name: "Interactive Courseware HTML"
-  short_description: "Convert teaching slides into interactive student-facing HTML lessons."
-  default_prompt: "Convert this lecture PPT/PDF into interactive HTML courseware with preserved figures, copyable code, quizzes, AI-labeled explanations, extension exercises, and browser validation."
-
